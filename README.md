@@ -18,4 +18,4 @@ The project is designed as a **template**:
 
 ---
 
-## 📂 Project Structure
+
